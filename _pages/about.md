@@ -11,7 +11,7 @@ I am your reliable and innovative Virtual Assistant, blending creativity with pr
 
 
 
-Anwarl's personal Website 
+About Anwarl 
 ======
 A Governance and International Relations specialist dedicated to delivering exceptional remote solutions for organizations and entrepreneurs. With expertise in policy research, strategic planning, content creation, and virtual project management, I've honed my ability to transform complex data into actionable insights using tools like Power BI, Tableau, and Excel. I’ve also helped brands enhance their online presence by curating engaging content, analyzing metrics, and implementing impactful social media strategies through platforms like Canva and Hootsuite. My goal is to provide innovative, data-driven support that allows you to focus on what you do best while achieving your strategic objectives.
 
@@ -26,11 +26,18 @@ Services provided
 2. Project management 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
+Tools Used 
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. Asana
+2. Calendly
+3. Trello
+4. Slack
+5. Hootsuite
+6. Zoom
+7. Google workspace
+8. Power Bl
+9. Notion
+10. Hubspot 
 
 **Markdown generator**
 
