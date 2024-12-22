@@ -25,9 +25,10 @@ Services provided
 1. Data Analysis and Visualization
 2. Project management 
 Site-wide configuration
-------
+
+
 Tools Used 
-------
+======
 1. Asana
 2. Calendly
 3. Trello
